@@ -1,0 +1,4 @@
+/* トップページ: About と Recent posts の間の余白 */
+#content.index > h2:not(:first-child) {
+  margin-top: 3rem;
+}
